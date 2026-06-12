@@ -185,8 +185,6 @@ Los bocetos iniciales están en la carpeta [`bocetos`](./bocetos).
 **Prototipo interactivo en Figma:**  
 <https://www.figma.com/proto/4w2xf03MDRKeuuWePNmqRL/ECO-UGR?node-id=2-11&p=f&t=WxkGh9EJ5HE3HRRC-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A11>
 
-La navegación permite validar la estructura: consultar próxima edición, filtrar productores y preparar la visita al mercado.
-
 ---
 
 ## II.c — Autoevaluación y relación con las prácticas
