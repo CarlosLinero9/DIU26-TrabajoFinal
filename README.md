@@ -1,7 +1,7 @@
 # Trabajo Final DIU 2025/26  
 ## Portfolio UX y propuesta de diseño para ECO MERCADO UGR
 
-**Estudiante:** Carlos Vílchez  
+**Estudiante:** Juan Carlos Vílchez Sánchez 
 **Asignatura:** Diseño de Interfaces de Usuario  
 **Prototipo Figma:** <https://www.figma.com/proto/4w2xf03MDRKeuuWePNmqRL/ECO-UGR?node-id=2-11&p=f&t=WxkGh9EJ5HE3HRRC-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A11>
 
@@ -173,11 +173,14 @@ Las funcionalidades principales serían: pantalla de inicio con próxima edició
 
 ### Boceto / prototipo
 
-El boceto se plantea como **web/app móvil** con tres pantallas:
+El boceto se plantea como **web/app móvil** con cuatro pantallas:
 
 1. **Inicio:** header, card de próxima edición, fecha, hora, ubicación, botones, buscador, filtros y productores destacados.
 2. **Productores:** buscador, filtros por categoría y cards de productor con nombre, producto, procedencia y botón “Ver”.
 3. **Planificar visita:** resumen de fecha y lugar, mapa simplificado, “Abrir en Maps”, “Añadir al calendario” y recomendaciones.
+4. **Información:** información sobre consumo responsable, comunidad universitaria...
+
+Los bocetos iniciales están en la carpeta [`bocetos`](./bocetos).
 
 **Prototipo interactivo en Figma:**  
 <https://www.figma.com/proto/4w2xf03MDRKeuuWePNmqRL/ECO-UGR?node-id=2-11&p=f&t=WxkGh9EJ5HE3HRRC-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A11>
